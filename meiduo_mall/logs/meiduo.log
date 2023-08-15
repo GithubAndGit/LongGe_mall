@@ -1,0 +1,1276 @@
+INFO 2022-12-28 17:19:54,798 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-12-28 17:19:59,006 basehttp 187 "GET / HTTP/1.1" 200 10681
+INFO 2022-12-28 17:19:59,058 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2022-12-28 17:19:59,132 basehttp 187 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2022-12-28 17:19:59,132 basehttp 187 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2022-12-28 17:19:59,147 basehttp 187 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+WARNING 2022-12-28 17:19:59,178 log 241 Not Found: /favicon.ico
+WARNING 2022-12-28 17:19:59,180 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2115
+WARNING 2022-12-28 17:20:09,874 basehttp 187 "GET /static/ HTTP/1.1" 404 1767
+INFO 2022-12-28 17:20:46,510 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2022-12-28 17:20:47,771 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-12-28 17:20:48,164 basehttp 187 "GET /static/ HTTP/1.1" 404 1767
+WARNING 2022-12-28 17:20:49,361 basehttp 187 "GET /static/ HTTP/1.1" 404 1767
+WARNING 2022-12-28 17:21:07,549 basehttp 187 "GET /static/ HTTP/1.1" 404 1767
+WARNING 2022-12-28 17:23:32,108 basehttp 187 "GET /static/images/adv01.jpg HTTP/1.1" 404 1807
+INFO 2022-12-28 17:24:54,466 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2022-12-28 17:24:55,660 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-12-28 17:24:56,139 basehttp 187 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+WARNING 2022-12-28 17:25:03,220 log 241 Not Found: /static
+WARNING 2022-12-28 17:25:03,221 basehttp 187 "GET /static HTTP/1.1" 404 2100
+WARNING 2022-12-28 17:25:08,188 basehttp 187 "GET /static/ HTTP/1.1" 404 1767
+ERROR 2022-12-28 17:25:15,228 basehttp 187 "GET /static//images/adv01.jpg HTTP/1.1" 500 59
+INFO 2022-12-31 23:29:56,438 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-12-31 23:32:12,117 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-12-31 23:32:53,402 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-12-31 23:33:05,976 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2022-12-31 23:33:07,267 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-12-31 23:36:01,004 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-12-31 23:41:07,078 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-01 10:12:09,553 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-02 01:02:59,578 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-02 01:05:46,817 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-02 01:10:38,749 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-02 01:12:36,249 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 19:28:19,807 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 19:29:25,330 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 19:32:40,204 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 20:08:04,278 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 20:13:18,171 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 20:51:44,585 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 20:57:31,343 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 21:02:02,568 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-01-20 21:08:21,806 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-01-20 21:08:23,488 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-02 22:20:51,210 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-02 22:22:43,159 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-02 22:24:07,504 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-02-02 22:24:08,736 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-02 22:41:22,749 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-13 17:04:10,820 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 23:57:58,473 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 23:58:38,821 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 00:00:01,899 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 00:06:52,582 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 00:06:56,367 basehttp 187 "GET / HTTP/1.1" 200 10681
+INFO 2023-02-28 00:06:56,700 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2023-02-28 00:06:56,776 basehttp 187 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+INFO 2023-02-28 00:06:56,776 basehttp 187 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+INFO 2023-02-28 00:06:56,780 basehttp 187 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+WARNING 2023-02-28 00:06:56,822 log 241 Not Found: /favicon.ico
+WARNING 2023-02-28 00:06:56,825 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2115
+INFO 2023-02-28 15:02:20,354 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 00:36:28,618 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 00:38:24,075 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 00:39:31,300 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:04:39,445 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:05:11,364 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:05:12,094 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:06:15,008 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:08:04,561 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:09:05,305 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:09:06,028 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:09:38,039 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:09:38,738 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:10:06,260 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:10:06,961 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:12:02,118 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:15:26,974 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:15:52,338 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:15:53,310 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:17:29,479 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:17:30,232 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:18:40,628 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:18:41,301 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:19:07,019 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:19:07,628 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:19:52,542 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:20:36,140 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:20:36,791 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:21:20,423 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:21:21,050 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:21:40,427 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:21:41,115 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:22:09,879 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:22:10,489 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-10 01:22:49,822 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-10 01:22:50,498 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-25 11:09:53,687 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-25 11:10:59,692 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-25 11:11:31,638 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-25 11:11:32,782 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-25 11:11:46,260 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-25 11:11:47,721 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-25 11:14:35,046 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-25 11:14:37,697 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-25 11:15:42,357 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-25 11:15:46,184 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-25 11:18:12,125 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-25 11:18:13,641 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-25 11:19:55,698 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-25 11:19:57,566 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 10:04:47,552 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-07-26 10:04:54,740 log 241 Not Found: /
+WARNING 2023-07-26 10:04:54,741 basehttp 187 "GET / HTTP/1.1" 404 2223
+WARNING 2023-07-26 10:04:55,235 log 241 Not Found: /favicon.ico
+WARNING 2023-07-26 10:04:55,248 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2274
+INFO 2023-07-26 10:05:02,356 basehttp 187 "GET /register HTTP/1.1" 301 0
+INFO 2023-07-26 10:05:02,367 basehttp 187 "GET /register/ HTTP/1.1" 200 2984
+INFO 2023-07-26 10:05:02,792 basehttp 187 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-07-26 10:05:02,873 basehttp 187 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-07-26 10:05:02,883 basehttp 187 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-07-26 10:05:02,884 basehttp 187 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-07-26 10:05:02,885 basehttp 187 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-07-26 10:05:02,890 basehttp 187 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-07-26 10:05:02,906 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-07-26 10:08:50,250 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2023-07-26 10:08:51,791 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:15:29,043 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2023-07-26 11:15:30,680 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:19:26,958 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2023-07-26 11:19:28,452 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:43:44,467 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:44:06,065 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2023-07-26 11:44:07,040 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:47:23,928 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:48:21,631 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:48:54,884 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:49:07,141 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\models.py changed, reloading.
+INFO 2023-07-26 11:49:08,092 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:57:58,917 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-26 11:58:00,076 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:58:21,281 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-26 11:58:22,343 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-26 11:59:17,841 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-07-26 11:59:19,079 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-30 11:40:23,658 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-07-30 11:40:45,042 log 241 Not Found: /
+WARNING 2023-07-30 11:40:45,044 basehttp 187 "GET / HTTP/1.1" 404 2240
+WARNING 2023-07-30 11:40:45,254 log 241 Not Found: /favicon.ico
+WARNING 2023-07-30 11:40:45,256 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2291
+INFO 2023-07-30 11:40:53,218 basehttp 187 "GET /register HTTP/1.1" 301 0
+INFO 2023-07-30 11:40:53,244 basehttp 187 "GET /register/ HTTP/1.1" 200 4014
+INFO 2023-07-30 11:40:53,882 basehttp 187 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-07-30 11:40:53,917 basehttp 187 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-07-30 11:40:53,927 basehttp 187 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-07-30 11:40:53,928 basehttp 187 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-07-30 11:40:53,930 basehttp 187 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-07-30 11:40:54,085 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-07-30 11:40:54,154 basehttp 187 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-07-30 11:41:03,717 basehttp 187 "GET /register/ HTTP/1.1" 200 4014
+INFO 2023-07-30 11:41:54,917 basehttp 187 "GET /register/ HTTP/1.1" 200 4014
+INFO 2023-07-30 12:05:13,562 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+INFO 2023-07-30 12:05:13,596 basehttp 187 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-07-30 12:05:13,600 basehttp 187 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2023-07-30 12:05:13,750 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-30 12:11:31,895 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+INFO 2023-07-30 12:11:32,693 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+INFO 2023-07-30 12:11:33,206 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+INFO 2023-07-30 12:11:33,370 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+INFO 2023-07-30 12:11:33,978 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+INFO 2023-07-30 12:11:34,161 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+INFO 2023-07-30 12:11:47,356 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+WARNING 2023-07-30 12:11:51,057 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-30 12:11:57,336 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+INFO 2023-07-30 12:11:57,386 basehttp 187 "GET /register/ HTTP/1.1" 200 4172
+WARNING 2023-07-30 12:11:57,423 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-07-30 12:11:57,516 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-30 12:11:57,518 basehttp 187 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-07-30 12:11:57,521 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-07-30 12:12:52,053 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:12:52,096 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 10028
+WARNING 2023-07-30 12:12:52,180 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-30 12:12:59,688 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:13:00,008 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:13:00,458 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:13:00,642 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+WARNING 2023-07-30 12:13:12,038 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-30 12:13:15,088 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:13:15,184 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-07-30 12:13:15,351 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-07-30 12:13:42,184 log 241 Not Found: /
+WARNING 2023-07-30 12:13:42,186 basehttp 187 "GET / HTTP/1.1" 404 2240
+INFO 2023-07-30 12:13:47,470 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:13:47,499 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-07-30 12:13:47,569 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-30 12:16:41,577 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:41,593 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 10062
+INFO 2023-07-30 12:16:42,440 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:42,454 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-30 12:16:42,758 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:42,774 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-30 12:16:42,928 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:42,943 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-30 12:16:43,573 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:43,588 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-30 12:16:43,741 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:43,759 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-30 12:16:43,893 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:43,907 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-30 12:16:44,051 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:44,067 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-30 12:16:44,208 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:47,594 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:47,610 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-07-30 12:16:50,733 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-30 12:16:53,488 basehttp 187 "GET /register/ HTTP/1.1" 200 4194
+INFO 2023-07-30 12:16:53,515 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-07-30 12:16:53,596 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-07-30 12:17:12,113 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:49:47,029 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-07-31 11:49:53,885 log 241 Not Found: /
+WARNING 2023-07-31 11:49:53,887 basehttp 187 "GET / HTTP/1.1" 404 2240
+WARNING 2023-07-31 11:49:54,015 log 241 Not Found: /favicon.ico
+WARNING 2023-07-31 11:49:54,017 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2291
+INFO 2023-07-31 11:50:03,284 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:50:03,747 basehttp 187 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-07-31 11:50:03,761 basehttp 187 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-07-31 11:50:03,823 basehttp 187 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-07-31 11:50:03,830 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-31 11:50:03,837 basehttp 187 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-07-31 11:50:03,839 basehttp 187 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-07-31 11:50:03,843 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-07-31 11:50:03,857 basehttp 187 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-07-31 11:50:03,858 basehttp 187 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-07-31 11:50:03,858 basehttp 187 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-07-31 11:57:29,439 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:29,639 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:29,856 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:30,038 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:30,222 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:30,405 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:30,594 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:30,766 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:30,905 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:31,071 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:31,289 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:31,472 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 11:57:31,635 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:57:38,502 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:57:59,421 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:57:59,488 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:01,853 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:01,906 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:02,039 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:02,089 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:02,255 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:02,308 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:02,406 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:02,457 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:02,589 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:02,661 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:02,755 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:02,803 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:02,903 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:02,950 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:03,088 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:03,138 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:03,238 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:03,283 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:03,413 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:03,458 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:03,589 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:03,638 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:03,754 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:03,806 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:03,920 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:03,966 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:04,110 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:04,156 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:04,272 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:04,316 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:04,440 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:04,484 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:04,621 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:04,669 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:04,804 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:04,855 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:04,960 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:05,004 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:05,139 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:05,191 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:05,305 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:05,358 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:05,486 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:05,528 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:05,672 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:05,719 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:05,855 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:05,900 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:06,020 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:06,068 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:06,221 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:06,268 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:06,391 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:06,434 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:06,549 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:06,590 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:06,721 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:06,769 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:58:38,650 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-07-31 11:58:44,722 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:58:44,815 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-07-31 11:58:58,460 log 241 Not Found: /
+WARNING 2023-07-31 11:58:58,462 basehttp 187 "GET / HTTP/1.1" 404 2240
+INFO 2023-07-31 11:59:02,005 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:59:05,533 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:59:08,992 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 11:59:09,059 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 11:59:24,382 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 12:00:42,226 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:00:42,293 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:00:42,425 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:00:42,473 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:00:42,625 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:00:42,672 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:40:06,345 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-07-31 12:40:09,561 log 241 Not Found: /
+WARNING 2023-07-31 12:40:09,563 basehttp 187 "GET / HTTP/1.1" 404 2240
+INFO 2023-07-31 12:40:13,985 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:40:18,646 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:40:22,314 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:40:22,383 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:40:41,354 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:40:41,405 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:40:41,529 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:40:41,573 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:40:41,695 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:40:41,739 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:40:41,849 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:40:41,889 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:40:42,029 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:40:42,072 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:46:06,299 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-07-31 12:46:08,805 log 241 Not Found: /
+WARNING 2023-07-31 12:46:08,806 basehttp 187 "GET / HTTP/1.1" 404 2240
+INFO 2023-07-31 12:46:11,348 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:46:18,070 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:46:22,089 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:46:22,149 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:48:19,865 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:48:19,918 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-07-31 12:48:30,645 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 12:52:09,099 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 12:52:09,161 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-07-31 12:52:36,739 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-07-31 16:25:59,623 log 241 Not Found: /
+WARNING 2023-07-31 16:25:59,625 basehttp 187 "GET / HTTP/1.1" 404 2240
+INFO 2023-07-31 16:26:04,562 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:26:04,771 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 968
+INFO 2023-07-31 16:51:02,707 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:51:02,866 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 16:51:08,282 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 16:51:11,387 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 16:51:11,450 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 16:51:46,725 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:51:48,575 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:51:48,745 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:51:48,895 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:51:49,078 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:51:49,214 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:51:49,379 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:51:51,352 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 16:51:53,337 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 16:51:56,030 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 16:51:56,094 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 16:52:54,413 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 16:52:54,474 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-07-31 16:53:01,156 log 241 Not Found: /
+WARNING 2023-07-31 16:53:01,158 basehttp 187 "GET / HTTP/1.1" 404 2240
+INFO 2023-07-31 16:53:04,736 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:53:04,752 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 1836
+WARNING 2023-07-31 16:53:04,790 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 16:58:19,067 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:19,079 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-07-31 16:58:19,230 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:19,394 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:19,544 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:19,678 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:19,846 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:19,994 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:20,161 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+WARNING 2023-07-31 16:58:21,888 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 16:58:24,621 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:24,633 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-07-31 16:58:24,684 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 16:58:42,910 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:42,920 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-31 16:58:45,027 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:46,448 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 16:58:46,457 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-31 16:58:47,768 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:12,693 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:12,702 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 2966
+INFO 2023-07-31 17:00:12,863 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:12,875 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-31 17:00:13,011 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:13,023 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-31 17:00:13,146 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:13,577 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:13,745 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:13,754 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-31 17:00:13,894 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:13,904 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-31 17:00:14,028 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:14,040 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-07-31 17:00:16,155 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-07-31 17:00:21,052 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:00:21,062 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-07-31 17:00:21,123 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+ERROR 2023-07-31 17:08:01,166 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view users.views.view didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-07-31 17:08:01,169 basehttp 187 "POST /register/ HTTP/1.1" 500 73042
+INFO 2023-07-31 17:08:06,760 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:08:06,771 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-07-31 17:09:03,180 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:03,193 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-07-31 17:09:03,461 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:03,660 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:03,823 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:03,993 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:04,161 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:04,311 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:04,465 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:04,627 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:04,794 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:04,960 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:05,114 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:05,311 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-07-31 17:09:05,477 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-08-11 17:08:47,243 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 17:09:12,912 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 17:16:35,957 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-08-11 17:16:52,075 log 241 Not Found: /
+WARNING 2023-08-11 17:16:52,076 basehttp 187 "GET / HTTP/1.1" 404 2240
+WARNING 2023-08-11 17:16:52,342 log 241 Not Found: /favicon.ico
+WARNING 2023-08-11 17:16:52,345 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2291
+INFO 2023-08-11 17:16:58,567 basehttp 187 "GET /register HTTP/1.1" 301 0
+INFO 2023-08-11 17:16:58,599 basehttp 187 "GET /register/ HTTP/1.1" 200 4190
+INFO 2023-08-11 17:16:59,220 basehttp 187 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 20439
+INFO 2023-08-11 17:16:59,374 basehttp 187 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-08-11 17:16:59,458 basehttp 187 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-08-11 17:16:59,460 basehttp 187 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-08-11 17:16:59,466 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-08-11 17:16:59,480 basehttp 187 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-11 17:16:59,487 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-08-11 17:16:59,508 basehttp 187 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-08-11 17:16:59,509 basehttp 187 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-08-11 17:16:59,509 basehttp 187 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2023-08-11 20:26:26,817 log 241 Forbidden: /register/
+WARNING 2023-08-11 20:26:26,820 basehttp 187 "POST /register/ HTTP/1.1" 403 18
+WARNING 2023-08-11 20:28:03,116 log 241 Forbidden: /register/
+WARNING 2023-08-11 20:28:03,117 basehttp 187 "POST /register/ HTTP/1.1" 403 18
+INFO 2023-08-11 20:30:25,067 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 20:30:45,537 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-08-11 20:31:22,657 log 241 Forbidden: /register/
+WARNING 2023-08-11 20:31:22,659 basehttp 187 "POST /register/ HTTP/1.1" 403 18
+INFO 2023-08-11 20:48:08,107 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 20:50:29,480 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-08-11 20:50:43,928 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 20:57:07,035 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 21:04:42,141 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 21:13:57,005 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:19:49,691 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:21:17,265 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:22:23,464 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:30:52,827 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:45:21,760 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:45:37,975 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\__init__.py changed, reloading.
+INFO 2023-08-11 22:45:43,093 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:51:01,100 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\__init__.py changed, reloading.
+INFO 2023-08-11 22:51:06,592 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:52:20,937 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:52:31,496 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\__init__.py changed, reloading.
+INFO 2023-08-11 22:52:33,645 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:52:41,773 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\__init__.py changed, reloading.
+INFO 2023-08-11 22:52:44,074 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:52:55,524 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 22:59:44,435 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-08-11 23:01:42,908 log 241 Forbidden: /register/
+WARNING 2023-08-11 23:01:42,911 basehttp 212 "POST /register/ HTTP/1.1" 403 18
+INFO 2023-08-11 23:02:23,373 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-08-11 23:28:48,013 log 241 Forbidden: /register/
+WARNING 2023-08-11 23:28:48,015 basehttp 212 "POST /register/ HTTP/1.1" 403 18
+INFO 2023-08-11 23:29:26,978 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 23:37:15,785 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 23:37:43,709 basehttp 212 "GET /register/ HTTP/1.1" 200 4188
+INFO 2023-08-11 23:40:30,267 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-08-11 23:40:52,198 log 241 Not Found: /
+WARNING 2023-08-11 23:40:52,200 basehttp 212 "GET / HTTP/1.1" 404 2240
+INFO 2023-08-11 23:41:09,640 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-11 23:41:17,596 basehttp 212 "GET /register/ HTTP/1.1" 200 4188
+INFO 2023-08-11 23:42:46,071 basehttp 212 "POST /register/ HTTP/1.1" 200 33
+INFO 2023-08-11 23:45:20,655 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-11 23:45:26,502 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 08:33:22,889 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-08-12 08:33:29,004 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 08:54:17,594 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2023-08-12 08:54:22,420 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 08:54:57,257 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2023-08-12 08:55:01,283 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:02:36,573 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\contents\urls.py changed, reloading.
+INFO 2023-08-12 09:02:40,867 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:02:57,632 basehttp 212 "GET /index HTTP/1.1" 301 0
+INFO 2023-08-12 09:02:57,682 basehttp 212 "GET /index/ HTTP/1.1" 200 124633
+INFO 2023-08-12 09:02:58,070 basehttp 212 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-08-12 09:02:58,075 basehttp 212 "GET /static/js/host.js HTTP/1.1" 200 120
+INFO 2023-08-12 09:02:58,110 basehttp 212 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2023-08-12 09:02:58,110 basehttp 212 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-12 09:02:58,111 basehttp 212 "GET /static/js/index.js HTTP/1.1" 200 1418
+INFO 2023-08-12 09:02:58,114 basehttp 212 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2023-08-12 09:04:15,504 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\contents\urls.py changed, reloading.
+INFO 2023-08-12 09:04:19,764 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:04:23,770 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\contents\urls.py changed, reloading.
+INFO 2023-08-12 09:04:28,473 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:04:31,793 basehttp 212 "GET / HTTP/1.1" 200 124633
+INFO 2023-08-12 09:05:51,445 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-12 09:05:56,164 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:06:07,456 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-12 09:06:12,410 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:07:01,474 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-12 09:07:05,439 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:07:28,141 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-12 09:07:32,471 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:08:00,288 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-12 09:08:04,738 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:08:47,625 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-12 09:08:51,684 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:13:45,017 basehttp 212 "GET / HTTP/1.1" 200 124625
+WARNING 2023-08-12 09:13:57,655 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 09:14:57,131 basehttp 212 "GET /register/ HTTP/1.1" 200 4188
+INFO 2023-08-12 09:15:21,244 basehttp 212 "POST /register/ HTTP/1.1" 200 4188
+WARNING 2023-08-12 09:23:36,083 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-08-12 09:24:55,664 log 241 Forbidden: /register/
+WARNING 2023-08-12 09:24:55,666 basehttp 212 "POST /register/ HTTP/1.1" 403 18
+INFO 2023-08-12 09:26:09,615 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:27:09,632 basehttp 212 "POST /register/ HTTP/1.1" 200 4188
+INFO 2023-08-12 09:45:38,565 basehttp 81 - Broken pipe from ('127.0.0.1', 49848)
+INFO 2023-08-12 09:45:38,565 basehttp 212 "POST /register/ HTTP/1.1" 200 4188
+INFO 2023-08-12 09:46:41,890 basehttp 212 "POST /register/ HTTP/1.1" 200 4188
+INFO 2023-08-12 09:48:26,870 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 09:48:35,082 basehttp 212 "POST /register/ HTTP/1.1" 200 4188
+INFO 2023-08-12 09:48:45,932 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-12 09:48:50,428 basehttp 212 "GET /register/ HTTP/1.1" 200 4188
+INFO 2023-08-12 09:49:21,267 basehttp 212 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-08-12 09:49:21,272 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-12 10:07:45,681 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-12 10:07:50,366 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 10:08:05,870 log 241 Forbidden: /register/
+WARNING 2023-08-12 10:08:05,872 basehttp 212 "POST /register/ HTTP/1.1" 403 25
+INFO 2023-08-12 10:08:23,699 basehttp 212 "POST /register/ HTTP/1.1" 200 4319
+INFO 2023-08-12 10:10:47,248 basehttp 212 "POST /register/ HTTP/1.1" 200 4319
+INFO 2023-08-12 10:10:50,658 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-12 10:10:55,863 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 10:12:11,174 log 241 Forbidden: /register/
+WARNING 2023-08-12 10:12:11,175 basehttp 212 "POST /register/ HTTP/1.1" 403 34
+INFO 2023-08-12 10:12:25,342 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 10:12:32,049 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 10:12:41,032 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-12 10:12:45,174 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 10:12:53,533 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-08-12 10:13:51,449 log 241 Forbidden: /register/
+WARNING 2023-08-12 10:13:51,450 basehttp 212 "POST /register/ HTTP/1.1" 403 18
+INFO 2023-08-12 10:13:52,889 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 10:13:53,651 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 20439
+INFO 2023-08-12 10:13:53,702 basehttp 212 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-08-12 10:13:53,727 basehttp 212 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-12 10:13:53,735 basehttp 212 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-08-12 10:13:53,747 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-08-12 10:13:53,748 basehttp 212 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-08-12 10:13:53,749 basehttp 212 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-08-12 10:13:53,749 basehttp 212 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-08-12 10:13:53,759 basehttp 212 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-08-12 10:13:53,763 basehttp 212 "GET /static/images/logo.png HTTP/1.1" 200 7450
+WARNING 2023-08-12 10:13:58,584 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 10:19:47,469 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-12 10:19:51,349 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 10:19:51,447 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 10:19:51,576 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-08-12 10:20:56,475 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 10:20:56,488 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2895
+WARNING 2023-08-12 10:21:02,504 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 10:31:32,402 basehttp 212 "GET /register/ HTTP/1.1" 200 4242
+INFO 2023-08-12 10:31:32,416 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-08-12 10:31:37,759 basehttp 212 "GET /register/ HTTP/1.1" 200 4242
+INFO 2023-08-12 10:31:51,178 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-12 10:31:51,204 basehttp 212 "GET /static/js/host.js HTTP/1.1" 200 120
+INFO 2023-08-12 10:31:51,206 basehttp 212 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-08-12 10:31:51,267 basehttp 212 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2023-08-12 10:31:51,268 basehttp 212 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-12 10:31:51,274 basehttp 212 "GET /static/js/index.js HTTP/1.1" 200 1418
+INFO 2023-08-12 10:31:51,282 basehttp 212 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2023-08-12 10:31:54,460 basehttp 212 "GET /register HTTP/1.1" 301 0
+INFO 2023-08-12 10:31:54,466 basehttp 212 "GET /register/ HTTP/1.1" 200 4242
+INFO 2023-08-12 10:31:54,953 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-12 10:32:19,381 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 10:32:19,607 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-12 12:01:47,154 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 12:01:47,206 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-12 12:01:56,749 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 12:02:34,538 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 12:02:34,691 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 12:02:34,853 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 12:02:35,023 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 12:05:11,588 log 241 Not Found: /register/login.html
+WARNING 2023-08-12 12:05:11,589 basehttp 212 "GET /register/login.html HTTP/1.1" 404 2479
+WARNING 2023-08-12 12:05:19,735 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 12:06:41,548 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 12:06:53,308 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 12:06:57,507 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 12:06:57,598 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 12:07:09,715 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+INFO 2023-08-12 12:07:09,733 basehttp 212 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-08-12 12:07:09,734 basehttp 212 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-08-12 12:07:09,751 basehttp 212 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-08-12 12:07:09,753 basehttp 212 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-08-12 12:07:09,758 basehttp 212 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-12 12:07:09,763 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 20439
+INFO 2023-08-12 12:07:09,803 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2902
+WARNING 2023-08-12 12:07:09,848 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 12:07:09,848 basehttp 212 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-08-12 12:07:09,849 basehttp 212 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-08-12 12:07:09,850 basehttp 212 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-08-12 15:09:41,090 basehttp 212 "GET /register/ HTTP/1.1" 200 4222
+INFO 2023-08-12 15:09:41,110 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-08-12 15:09:53,732 basehttp 212 "GET /register/ HTTP/1.1" 200 4222
+INFO 2023-08-12 15:10:14,684 basehttp 212 "GET /register/ HTTP/1.1" 200 4222
+INFO 2023-08-12 15:10:15,266 basehttp 212 "GET /register/ HTTP/1.1" 200 4222
+INFO 2023-08-12 15:10:15,486 basehttp 212 "GET /register/ HTTP/1.1" 200 4222
+INFO 2023-08-12 15:10:15,651 basehttp 212 "GET /register/ HTTP/1.1" 200 4222
+INFO 2023-08-12 15:10:34,151 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 15:17:33,681 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 15:17:55,936 basehttp 212 "GET /register/ HTTP/1.1" 200 4218
+WARNING 2023-08-12 15:17:56,037 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 15:19:58,669 basehttp 212 "GET /register/ HTTP/1.1" 200 4137
+INFO 2023-08-12 15:20:11,918 basehttp 212 "GET /register/ HTTP/1.1" 200 4137
+INFO 2023-08-12 15:20:11,934 basehttp 212 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-08-12 15:20:11,936 basehttp 212 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-08-12 15:20:11,950 basehttp 212 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-08-12 15:20:11,952 basehttp 212 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-08-12 15:20:11,954 basehttp 212 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-12 15:20:11,994 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-08-12 15:20:12,027 basehttp 212 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-08-12 15:20:12,027 basehttp 212 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-08-12 15:20:12,028 basehttp 212 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-08-12 15:21:42,822 basehttp 212 "GET /register/ HTTP/1.1" 200 4212
+INFO 2023-08-12 15:21:42,932 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 20439
+WARNING 2023-08-12 15:21:43,084 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 15:21:50,873 basehttp 212 "GET /register/ HTTP/1.1" 200 4212
+INFO 2023-08-12 15:21:53,066 basehttp 212 "GET /register/ HTTP/1.1" 200 4212
+INFO 2023-08-12 15:22:03,529 basehttp 212 "GET /register/ HTTP/1.1" 200 4212
+INFO 2023-08-12 15:22:03,548 basehttp 212 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-08-12 15:22:03,554 basehttp 212 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-08-12 15:22:03,556 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 20439
+INFO 2023-08-12 15:22:03,556 basehttp 212 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-08-12 15:22:03,558 basehttp 212 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-08-12 15:22:03,559 basehttp 212 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-12 15:22:03,587 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-08-12 15:22:03,591 basehttp 212 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-08-12 15:22:03,592 basehttp 212 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-08-12 15:22:03,592 basehttp 212 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2023-08-12 15:22:10,236 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 15:25:16,279 basehttp 212 "GET /register/ HTTP/1.1" 200 8239
+WARNING 2023-08-12 15:25:16,361 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 15:25:16,451 basehttp 212 "GET /register/ HTTP/1.1" 200 8239
+WARNING 2023-08-12 15:25:16,543 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 15:25:16,630 basehttp 212 "GET /register/ HTTP/1.1" 200 8239
+WARNING 2023-08-12 15:25:16,705 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 15:25:17,359 basehttp 212 "GET /register/ HTTP/1.1" 200 8239
+WARNING 2023-08-12 15:25:17,433 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-12 15:25:17,534 basehttp 212 "GET /register/ HTTP/1.1" 200 8239
+WARNING 2023-08-12 15:25:17,623 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 11:13:51,273 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-13 11:15:12,350 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-13 11:15:19,935 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-13 11:15:30,553 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+INFO 2023-08-13 11:15:30,936 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-13 11:15:31,129 log 241 Not Found: /favicon.ico
+WARNING 2023-08-13 11:15:31,131 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 2455
+INFO 2023-08-13 11:36:15,503 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-13 11:36:23,888 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+INFO 2023-08-13 22:10:30,207 basehttp 212 "GET /register/ HTTP/1.1" 200 4204
+INFO 2023-08-13 22:10:30,332 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2023-08-13 22:10:30,334 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-13 22:10:35,157 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:10:56,501 basehttp 212 "GET /register/ HTTP/1.1" 200 4204
+WARNING 2023-08-13 22:10:56,594 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:13:38,838 basehttp 212 "GET /register/ HTTP/1.1" 200 5272
+WARNING 2023-08-13 22:13:38,936 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:16:27,467 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+WARNING 2023-08-13 22:16:27,554 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:16:28,638 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+WARNING 2023-08-13 22:16:28,726 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:16:28,867 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+WARNING 2023-08-13 22:16:28,942 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:16:29,064 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+WARNING 2023-08-13 22:16:29,135 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:16:29,233 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+WARNING 2023-08-13 22:16:29,305 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:16:29,414 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+WARNING 2023-08-13 22:16:29,495 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:16:29,589 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+WARNING 2023-08-13 22:16:29,664 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:20:34,169 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+INFO 2023-08-13 22:20:34,830 basehttp 212 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-08-13 22:20:34,892 basehttp 212 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-08-13 22:20:34,899 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2896
+INFO 2023-08-13 22:20:34,977 basehttp 212 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-08-13 22:20:34,997 basehttp 212 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-13 22:20:35,014 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 20439
+INFO 2023-08-13 22:20:35,018 basehttp 212 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-08-13 22:20:35,045 basehttp 212 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-08-13 22:20:35,047 basehttp 212 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-08-13 22:20:35,048 basehttp 212 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-08-13 22:21:15,326 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-13 22:21:18,003 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-13 22:21:24,817 basehttp 212 "GET /register HTTP/1.1" 301 0
+INFO 2023-08-13 22:21:24,826 basehttp 212 "GET /register/ HTTP/1.1" 200 4201
+INFO 2023-08-13 22:21:24,961 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-13 22:21:25,699 log 241 Not Found: /favicon.ico
+WARNING 2023-08-13 22:21:25,700 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 2455
+WARNING 2023-08-13 22:21:31,164 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:26:35,490 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:26:35,607 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-13 22:26:35,629 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-13 22:54:41,860 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:41,885 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-13 22:54:42,050 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:42,232 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:42,413 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:42,615 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:42,799 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:42,957 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:43,151 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:43,333 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:43,546 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:43,730 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-13 22:54:43,932 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-14 00:09:46,938 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 00:09:49,428 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 00:10:22,269 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 00:10:23,639 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 00:10:37,400 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 00:10:38,812 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 08:41:33,792 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-14 08:41:39,922 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-14 08:41:40,588 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 2897
+WARNING 2023-08-14 08:41:54,007 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-08-14 08:52:13,637 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-14 08:52:30,604 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+WARNING 2023-08-14 08:52:30,754 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-14 08:53:12,952 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-14 09:53:42,033 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 09:53:45,487 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 09:54:23,465 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 09:54:25,513 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:01:23,723 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:01:25,747 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:01:42,970 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2023-08-14 10:01:45,276 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:02:07,325 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2023-08-14 10:02:08,971 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:02:26,666 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2023-08-14 10:02:28,288 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:04:55,424 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2023-08-14 10:04:57,561 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:05:31,797 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2023-08-14 10:05:34,194 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:05:49,016 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2023-08-14 10:05:51,181 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:06:12,006 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\urls.py changed, reloading.
+INFO 2023-08-14 10:06:14,213 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:13:54,235 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:13:56,938 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:14:38,814 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:14:41,351 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:14:58,169 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:15:00,278 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:16:19,516 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:16:21,593 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:18:04,222 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:18:06,173 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:22:25,837 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:22:28,044 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:55:22,172 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:55:24,414 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:55:52,008 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:55:54,048 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:56:25,067 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:56:27,401 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 10:59:46,323 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 10:59:48,328 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 11:01:36,327 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 11:01:38,304 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 11:05:19,496 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 11:10:52,422 autoreload 668 Watching for file changes with StatReloader
+WARNING 2023-08-14 11:10:58,469 log 241 Not Found: /username/users/count/
+WARNING 2023-08-14 11:10:58,472 basehttp 212 "GET /username/users/count/ HTTP/1.1" 404 2691
+INFO 2023-08-14 11:41:31,629 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 11:41:33,687 basehttp 212 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-14 11:41:54,741 basehttp 212 "GET /usernames/users/count/ HTTP/1.1" 200 41
+INFO 2023-08-14 14:35:29,305 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-14 14:35:30,028 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 3805
+INFO 2023-08-14 14:35:36,252 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+WARNING 2023-08-14 14:35:40,510 log 241 Not Found: /register/url
+WARNING 2023-08-14 14:35:40,511 basehttp 212 "GET /register/url HTTP/1.1" 404 2664
+WARNING 2023-08-14 14:35:42,016 log 241 Not Found: /register/url
+WARNING 2023-08-14 14:35:42,017 basehttp 212 "GET /register/url HTTP/1.1" 404 2664
+WARNING 2023-08-14 14:36:21,914 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-08-14 14:36:40,657 log 241 Not Found: /register/url
+WARNING 2023-08-14 14:36:40,659 basehttp 212 "GET /register/url HTTP/1.1" 404 2664
+WARNING 2023-08-14 14:38:25,955 log 241 Not Found: /register/url
+WARNING 2023-08-14 14:38:25,956 basehttp 212 "GET /register/url HTTP/1.1" 404 2664
+WARNING 2023-08-14 14:38:27,622 log 241 Not Found: /register/url
+WARNING 2023-08-14 14:38:27,623 basehttp 212 "GET /register/url HTTP/1.1" 404 2664
+WARNING 2023-08-14 14:39:40,234 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-08-14 14:45:01,582 log 241 Not Found: /register/url
+WARNING 2023-08-14 14:45:01,583 basehttp 212 "GET /register/url HTTP/1.1" 404 2664
+INFO 2023-08-14 14:45:24,284 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 14:46:11,161 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-14 14:46:11,184 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-14 14:46:11,321 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-08-14 14:46:33,093 log 241 Not Found: /register/url
+WARNING 2023-08-14 14:46:33,095 basehttp 212 "GET /register/url HTTP/1.1" 404 2664
+INFO 2023-08-14 14:49:15,697 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 14:49:29,316 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+WARNING 2023-08-14 14:49:29,453 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-14 14:49:29,580 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 3803
+INFO 2023-08-14 14:50:28,311 basehttp 212 "GET /usernames/users/count/ HTTP/1.1" 200 41
+INFO 2023-08-14 15:12:37,055 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 15:12:41,028 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 15:18:07,966 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 15:18:12,005 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 15:18:13,008 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+WARNING 2023-08-14 15:18:13,173 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-14 15:18:13,281 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 4709
+ERROR 2023-08-14 15:18:18,568 log 241 Internal Server Error: /mobiles/16727135352/count/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py", line 42, in get
+    count = User.objects.filter(mobile).count()
+  File "D:\python3.10.2\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1534, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1565, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1412, in build_filter
+    arg, value = filter_expr
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-08-14 15:18:18,574 basehttp 212 "GET /mobiles/16727135352/count/ HTTP/1.1" 500 123420
+INFO 2023-08-14 15:18:33,820 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-14 15:18:33,837 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-14 15:18:33,951 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+ERROR 2023-08-14 15:20:57,101 log 241 Internal Server Error: /mobiles/16727135352/count/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py", line 42, in get
+    count = User.objects.filter(mobile).count()
+  File "D:\python3.10.2\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1534, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1565, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1412, in build_filter
+    arg, value = filter_expr
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-08-14 15:20:57,103 basehttp 212 "GET /mobiles/16727135352/count/ HTTP/1.1" 500 123641
+ERROR 2023-08-14 15:23:48,196 log 241 Internal Server Error: /mobiles/16727135352/count/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py", line 42, in get
+    count = User.objects.filter(mobile).count()
+  File "D:\python3.10.2\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1534, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1565, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1412, in build_filter
+    arg, value = filter_expr
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-08-14 15:23:48,199 basehttp 212 "GET /mobiles/16727135352/count/ HTTP/1.1" 500 123778
+ERROR 2023-08-14 15:23:48,584 log 241 Internal Server Error: /mobiles/16727135352/count/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py", line 42, in get
+    count = User.objects.filter(mobile).count()
+  File "D:\python3.10.2\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1534, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1565, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1412, in build_filter
+    arg, value = filter_expr
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-08-14 15:23:48,587 basehttp 212 "GET /mobiles/16727135352/count/ HTTP/1.1" 500 123778
+INFO 2023-08-14 15:23:51,483 basehttp 212 "GET / HTTP/1.1" 200 124625
+WARNING 2023-08-14 15:23:54,025 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-14 15:24:34,436 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 15:24:41,346 basehttp 212 "GET / HTTP/1.1" 200 124625
+ERROR 2023-08-14 15:24:56,126 log 241 Internal Server Error: /mobiles/16727135352/count/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py", line 42, in get
+    count = User.objects.filter(mobile).count()
+  File "D:\python3.10.2\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1534, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1565, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\python3.10.2\lib\site-packages\django\db\models\sql\query.py", line 1412, in build_filter
+    arg, value = filter_expr
+ValueError: too many values to unpack (expected 2)
+ERROR 2023-08-14 15:24:56,131 basehttp 212 "GET /mobiles/16727135352/count/ HTTP/1.1" 500 113530
+INFO 2023-08-14 15:26:05,764 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\users\views.py changed, reloading.
+INFO 2023-08-14 15:26:07,096 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 15:26:09,526 basehttp 212 "GET /mobiles/16727135352/count/ HTTP/1.1" 200 41
+INFO 2023-08-14 15:26:16,114 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+WARNING 2023-08-14 15:26:16,211 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-14 15:26:16,354 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 4709
+INFO 2023-08-14 15:26:19,523 basehttp 212 "GET /mobiles/16727135352/count/ HTTP/1.1" 200 41
+INFO 2023-08-14 16:05:37,591 basehttp 212 "GET /register/ HTTP/1.1" 200 5269
+INFO 2023-08-14 16:05:37,606 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-14 17:09:34,230 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-08-14 17:09:35,894 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 17:10:21,081 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-08-14 17:10:22,534 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 17:11:59,168 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2023-08-14 17:12:00,762 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 17:13:02,064 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\urls.py changed, reloading.
+INFO 2023-08-14 17:13:03,472 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-14 22:48:55,912 autoreload 266 D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\settings\dev.py changed, reloading.
+INFO 2023-08-14 22:49:00,075 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 09:40:35,096 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 09:41:18,364 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 09:53:55,050 basehttp 212 "GET /register/ HTTP/1.1" 200 5427
+INFO 2023-08-15 09:53:55,123 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2023-08-15 09:53:55,536 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 5092
+ERROR 2023-08-15 09:53:55,829 log 241 Internal Server Error: /image_codes/e8752860-715f-46ec-aa89-41c162034e4e/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 09:53:55,835 basehttp 212 "GET /image_codes/e8752860-715f-46ec-aa89-41c162034e4e/ HTTP/1.1" 500 107018
+INFO 2023-08-15 09:53:58,876 basehttp 212 "GET /register/ HTTP/1.1" 200 5427
+ERROR 2023-08-15 09:53:59,154 log 241 Internal Server Error: /image_codes/90d71ed0-d2d6-427f-94ae-25c9f0c4216c/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 09:53:59,159 basehttp 212 "GET /image_codes/90d71ed0-d2d6-427f-94ae-25c9f0c4216c/ HTTP/1.1" 500 107020
+WARNING 2023-08-15 09:54:01,991 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-15 10:11:16,243 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 10:11:19,161 basehttp 212 "GET /register/ HTTP/1.1" 200 5427
+INFO 2023-08-15 10:11:19,187 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-15 10:11:19,334 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+ERROR 2023-08-15 10:11:19,434 log 241 Internal Server Error: /image_codes/a3014630-6654-4658-8271-5eaf98837514/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 10:11:19,440 basehttp 212 "GET /image_codes/a3014630-6654-4658-8271-5eaf98837514/ HTTP/1.1" 500 96909
+INFO 2023-08-15 10:11:25,739 basehttp 212 "GET /register/ HTTP/1.1" 200 5427
+ERROR 2023-08-15 10:11:25,969 log 241 Internal Server Error: /image_codes/db3c0031-5bc6-4c8e-95e1-e06a4b12853a/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 10:11:25,973 basehttp 212 "GET /image_codes/db3c0031-5bc6-4c8e-95e1-e06a4b12853a/ HTTP/1.1" 500 96910
+WARNING 2023-08-15 10:11:29,686 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+ERROR 2023-08-15 10:16:39,938 log 241 Internal Server Error: /image_codes/db3c0031-5bc6-4c8e-95e1-e06a4b12853a/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 10:16:39,941 basehttp 212 "GET /image_codes/db3c0031-5bc6-4c8e-95e1-e06a4b12853a/ HTTP/1.1" 500 97095
+INFO 2023-08-15 13:45:36,624 autoreload 668 Watching for file changes with StatReloader
+ERROR 2023-08-15 13:45:47,177 log 241 Internal Server Error: /image_codes/db3c0031-5bc6-4c8e-95e1-e06a4b12853a/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 13:45:47,180 basehttp 212 "GET /image_codes/db3c0031-5bc6-4c8e-95e1-e06a4b12853a/ HTTP/1.1" 500 97232
+INFO 2023-08-15 13:45:52,621 basehttp 212 "GET /register/ HTTP/1.1" 200 5427
+INFO 2023-08-15 13:45:52,696 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+WARNING 2023-08-15 13:45:52,734 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+ERROR 2023-08-15 13:45:52,774 log 241 Internal Server Error: /image_codes/3943d0e8-55e5-4208-a867-99315d39c584/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 13:45:52,776 basehttp 212 "GET /image_codes/3943d0e8-55e5-4208-a867-99315d39c584/ HTTP/1.1" 500 96908
+INFO 2023-08-15 14:00:02,230 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 14:00:09,027 basehttp 212 "GET /register/ HTTP/1.1" 200 5528
+INFO 2023-08-15 14:00:13,794 basehttp 212 "GET /register/ HTTP/1.1" 200 5528
+INFO 2023-08-15 14:00:13,978 basehttp 212 "GET /register/ HTTP/1.1" 200 5528
+INFO 2023-08-15 14:00:14,161 basehttp 212 "GET /register/ HTTP/1.1" 200 5528
+WARNING 2023-08-15 14:00:17,259 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-15 14:04:41,351 basehttp 212 "GET /register/ HTTP/1.1" 200 5528
+INFO 2023-08-15 14:04:43,018 basehttp 212 "GET /register/ HTTP/1.1" 200 5528
+INFO 2023-08-15 14:04:43,228 basehttp 212 "GET /register/ HTTP/1.1" 200 5528
+INFO 2023-08-15 14:04:43,413 basehttp 212 "GET /register/ HTTP/1.1" 200 5528
+INFO 2023-08-15 14:05:19,556 basehttp 212 "GET /register/ HTTP/1.1" 200 5453
+ERROR 2023-08-15 14:05:19,809 log 241 Internal Server Error: /image_codes/8b869f2b-7bd4-4567-9601-03318804a638/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 14:05:19,813 basehttp 212 "GET /image_codes/8b869f2b-7bd4-4567-9601-03318804a638/ HTTP/1.1" 500 96908
+INFO 2023-08-15 14:05:20,121 basehttp 212 "GET /register/ HTTP/1.1" 200 5453
+ERROR 2023-08-15 14:05:20,263 log 241 Internal Server Error: /image_codes/d084c6c4-e9fd-40f0-98c4-8739976308b0/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 14:05:20,265 basehttp 212 "GET /image_codes/d084c6c4-e9fd-40f0-98c4-8739976308b0/ HTTP/1.1" 500 96909
+INFO 2023-08-15 14:05:20,315 basehttp 212 "GET /register/ HTTP/1.1" 200 5453
+ERROR 2023-08-15 14:05:20,476 log 241 Internal Server Error: /image_codes/ebcce8b7-46c8-451f-89bf-29dd0adc364b/
+Traceback (most recent call last):
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\python3.10.2\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python3.10.2\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 23, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-15 14:05:20,478 basehttp 212 "GET /image_codes/ebcce8b7-46c8-451f-89bf-29dd0adc364b/ HTTP/1.1" 500 96910
+INFO 2023-08-15 14:18:54,820 autoreload 266 D:\python3.10.2\Lib\site-packages\PIL\__init__.py changed, reloading.
+INFO 2023-08-15 14:18:56,299 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 14:33:19,002 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 14:33:24,674 basehttp 212 "GET /register/ HTTP/1.1" 200 5453
+INFO 2023-08-15 14:33:24,691 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-15 14:33:24,770 basehttp 212 "GET /image_codes/c02b1e9f-c3a1-439c-9d45-ef7516d50a16/ HTTP/1.1" 200 2920
+INFO 2023-08-15 14:33:27,090 basehttp 212 "GET /register/ HTTP/1.1" 200 5453
+INFO 2023-08-15 14:33:27,155 basehttp 212 "GET /image_codes/7eb5712c-d284-4073-9410-6e3955e8a091/ HTTP/1.1" 200 3112
+INFO 2023-08-15 14:33:27,773 basehttp 212 "GET /register/ HTTP/1.1" 200 5453
+INFO 2023-08-15 14:33:27,842 basehttp 212 "GET /image_codes/e685ff63-b940-47eb-8402-7b97c8ddbe14/ HTTP/1.1" 200 3192
+INFO 2023-08-15 14:33:28,260 basehttp 212 "GET /register/ HTTP/1.1" 200 5453
+INFO 2023-08-15 14:33:28,324 basehttp 212 "GET /image_codes/b4528cc0-7b27-4d41-95df-e034faf6be34/ HTTP/1.1" 200 3101
+INFO 2023-08-15 14:33:28,679 basehttp 212 "GET /register/ HTTP/1.1" 200 5453
+INFO 2023-08-15 14:33:28,741 basehttp 212 "GET /image_codes/7c75a485-787f-48e8-8dfc-2dfb4660a3ee/ HTTP/1.1" 200 3280
+INFO 2023-08-15 14:40:20,605 basehttp 212 "GET /register/ HTTP/1.1" 200 5482
+INFO 2023-08-15 14:40:20,669 basehttp 212 "GET /image_codes/2d50aeaf-b0b3-413c-a489-8e9730ff7c7b/ HTTP/1.1" 200 2941
+INFO 2023-08-15 14:40:22,173 basehttp 212 "GET /image_codes/78efdc11-0721-4436-a721-45280c5e930c/ HTTP/1.1" 200 2891
+INFO 2023-08-15 14:40:22,569 basehttp 212 "GET /image_codes/3cf6c063-4920-498e-879b-f9906481b882/ HTTP/1.1" 200 3238
+INFO 2023-08-15 14:40:22,727 basehttp 212 "GET /image_codes/63883c4d-e6b8-4b4f-b53b-3efa8d9bac74/ HTTP/1.1" 200 3356
+INFO 2023-08-15 14:40:22,881 basehttp 212 "GET /image_codes/046e60cd-23e2-4783-a518-b57fafedd157/ HTTP/1.1" 200 3312
+INFO 2023-08-15 14:40:23,069 basehttp 212 "GET /image_codes/6b5129d0-4b36-4598-91a4-c3a6aac9273e/ HTTP/1.1" 200 2948
+INFO 2023-08-15 14:40:23,198 basehttp 212 "GET /image_codes/42736b0a-9e9a-48e6-8dcc-1894ed849446/ HTTP/1.1" 200 3173
+INFO 2023-08-15 14:40:23,355 basehttp 212 "GET /image_codes/d4ac5f5e-c355-49ac-b289-d898b82e6789/ HTTP/1.1" 200 3220
+INFO 2023-08-15 14:40:23,532 basehttp 212 "GET /image_codes/3b91d43b-8e7c-4b29-a222-0819c822a702/ HTTP/1.1" 200 3348
+INFO 2023-08-15 14:40:23,815 basehttp 212 "GET /image_codes/c8b6d2a2-3888-46f4-8259-abbb33a50b17/ HTTP/1.1" 200 3417
+INFO 2023-08-15 14:40:23,976 basehttp 212 "GET /image_codes/bf1299f1-ba8b-4739-8776-27b516909170/ HTTP/1.1" 200 3111
+INFO 2023-08-15 14:40:24,166 basehttp 212 "GET /image_codes/b48724f9-43ed-4e89-9de4-e4734092dacb/ HTTP/1.1" 200 3180
+INFO 2023-08-15 14:40:24,332 basehttp 212 "GET /image_codes/a8699ede-9582-4bf8-b069-fcce02f048a6/ HTTP/1.1" 200 3305
