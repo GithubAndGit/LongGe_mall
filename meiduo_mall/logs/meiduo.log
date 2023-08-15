@@ -1274,3 +1274,44 @@ INFO 2023-08-15 14:40:23,815 basehttp 212 "GET /image_codes/c8b6d2a2-3888-46f4-8
 INFO 2023-08-15 14:40:23,976 basehttp 212 "GET /image_codes/bf1299f1-ba8b-4739-8776-27b516909170/ HTTP/1.1" 200 3111
 INFO 2023-08-15 14:40:24,166 basehttp 212 "GET /image_codes/b48724f9-43ed-4e89-9de4-e4734092dacb/ HTTP/1.1" 200 3180
 INFO 2023-08-15 14:40:24,332 basehttp 212 "GET /image_codes/a8699ede-9582-4bf8-b069-fcce02f048a6/ HTTP/1.1" 200 3305
+INFO 2023-08-15 22:08:34,788 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 22:09:11,796 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 22:09:22,272 basehttp 212 "GET /register/ HTTP/1.1" 200 5530
+INFO 2023-08-15 22:09:22,503 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 5542
+INFO 2023-08-15 22:09:22,541 basehttp 212 "GET /image_codes/5e34ec49-eece-47ef-9c55-f7d7678ad624/ HTTP/1.1" 200 3226
+INFO 2023-08-15 22:09:30,553 basehttp 212 "GET /register/ HTTP/1.1" 200 5530
+INFO 2023-08-15 22:09:30,570 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-15 22:09:30,627 basehttp 212 "GET /image_codes/14b7ed32-bcb6-400d-92ee-c6685aa2b75a/ HTTP/1.1" 200 3189
+INFO 2023-08-15 22:10:40,194 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-15 22:10:44,394 basehttp 212 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-15 22:10:44,407 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-15 22:10:44,466 basehttp 212 "GET /image_codes/cf904600-e1bb-4036-915c-83055534b499/ HTTP/1.1" 200 3244
+INFO 2023-08-15 22:10:55,558 basehttp 212 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-15 22:10:55,633 basehttp 212 "GET /image_codes/f692e0f8-86eb-482c-bce6-e2f2d3f3a577/ HTTP/1.1" 200 3589
+INFO 2023-08-15 22:10:58,829 basehttp 212 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-15 22:10:58,841 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-15 22:10:58,891 basehttp 212 "GET /image_codes/8edcbd2d-db0e-4a45-b690-936892d355aa/ HTTP/1.1" 200 2953
+INFO 2023-08-15 22:20:50,777 basehttp 212 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-15 22:20:50,792 basehttp 212 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-08-15 22:20:50,855 basehttp 212 "GET /image_codes/9b0872b8-df51-4694-8b7b-adf8c58cac88/ HTTP/1.1" 200 3602
+INFO 2023-08-15 22:21:21,193 basehttp 212 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-15 22:21:21,260 basehttp 212 "GET /image_codes/78ac0e9a-830a-467f-8803-92dd1d7cac84/ HTTP/1.1" 200 3400
+INFO 2023-08-15 22:21:25,568 basehttp 212 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-15 22:21:25,628 basehttp 212 "GET /image_codes/a10520df-45e6-4054-bba7-1be10c9d7459/ HTTP/1.1" 200 3299
+WARNING 2023-08-15 22:21:30,920 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-15 22:21:42,221 basehttp 212 "GET /register/ HTTP/1.1" 200 5534
+WARNING 2023-08-15 22:21:42,319 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-15 22:21:42,335 basehttp 212 "GET /image_codes/75a4b780-50f5-4dff-82d9-c446f5872cce/ HTTP/1.1" 200 3220
+INFO 2023-08-15 22:22:05,345 basehttp 212 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-15 22:22:05,987 basehttp 212 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-08-15 22:22:06,090 basehttp 212 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 20439
+INFO 2023-08-15 22:22:06,102 basehttp 212 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2023-08-15 22:22:06,183 basehttp 212 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-08-15 22:22:06,198 basehttp 212 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-08-15 22:22:06,205 basehttp 212 "GET /static/js/register.js HTTP/1.1" 200 5538
+INFO 2023-08-15 22:22:06,206 basehttp 212 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-08-15 22:22:06,210 basehttp 212 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-08-15 22:22:06,210 basehttp 212 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2023-08-15 22:22:06,220 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-08-15 22:22:06,230 basehttp 212 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-08-15 22:22:06,265 basehttp 212 "GET /image_codes/b9c36d03-cc34-41a2-a8e9-b53e323cf78b/ HTTP/1.1" 200 3248
