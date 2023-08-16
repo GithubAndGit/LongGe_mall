@@ -1315,3 +1315,116 @@ INFO 2023-08-15 22:22:06,210 basehttp 212 "GET /static/images/icons02.png HTTP/1
 WARNING 2023-08-15 22:22:06,220 basehttp 212 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
 INFO 2023-08-15 22:22:06,230 basehttp 212 "GET /static/js/common.js HTTP/1.1" 200 891
 INFO 2023-08-15 22:22:06,265 basehttp 212 "GET /image_codes/b9c36d03-cc34-41a2-a8e9-b53e323cf78b/ HTTP/1.1" 200 3248
+INFO 2023-08-16 09:12:45,968 autoreload 668 Watching for file changes with StatReloader
+INFO 2023-08-16 09:29:35,403 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-08-16 09:31:41,585 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-08-16 09:31:56,544 basehttp 187 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-16 09:32:02,325 basehttp 187 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-16 09:32:02,603 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+ERROR 2023-08-16 09:32:02,741 log 241 Internal Server Error: /image_codes/9da0fe76-08db-47cd-bd1e-e508b636f377/
+Traceback (most recent call last):
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 24, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-16 09:32:02,746 basehttp 187 "GET /image_codes/9da0fe76-08db-47cd-bd1e-e508b636f377/ HTTP/1.1" 500 99323
+ERROR 2023-08-16 09:32:05,195 log 241 Internal Server Error: /image_codes/39f2b196-8320-4bf7-8185-23f9ae8145b3/
+Traceback (most recent call last):
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 24, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-16 09:32:05,200 basehttp 187 "GET /image_codes/39f2b196-8320-4bf7-8185-23f9ae8145b3/ HTTP/1.1" 500 99051
+ERROR 2023-08-16 09:32:06,447 log 241 Internal Server Error: /image_codes/df591571-3be5-4f42-b509-c64dc8935b7d/
+Traceback (most recent call last):
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 24, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-16 09:32:06,452 basehttp 187 "GET /image_codes/df591571-3be5-4f42-b509-c64dc8935b7d/ HTTP/1.1" 500 99050
+ERROR 2023-08-16 09:32:06,616 log 241 Internal Server Error: /image_codes/e425cfaa-2e64-44d4-aa45-3d40b2838e2a/
+Traceback (most recent call last):
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 24, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-16 09:32:06,621 basehttp 187 "GET /image_codes/e425cfaa-2e64-44d4-aa45-3d40b2838e2a/ HTTP/1.1" 500 99048
+ERROR 2023-08-16 09:32:06,822 log 241 Internal Server Error: /image_codes/496f4e35-908c-4e19-9e9c-802176dc8da3/
+Traceback (most recent call last):
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\views.py", line 24, in get
+    text, image = captcha.generate_captcha()
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "D:\pycharm project\Django项目\meiduo_project\meiduo_mall\meiduo_mall\apps\verifications\libs\captcha\captcha.py", line 132, in text
+    c_width, c_height = draw.textsize(c, font=font)
+AttributeError: 'ImageDraw' object has no attribute 'textsize'
+ERROR 2023-08-16 09:32:06,826 basehttp 187 "GET /image_codes/496f4e35-908c-4e19-9e9c-802176dc8da3/ HTTP/1.1" 500 99049
+INFO 2023-08-16 09:32:47,204 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-08-16 09:32:49,599 basehttp 187 "GET / HTTP/1.1" 200 124625
+INFO 2023-08-16 09:32:56,266 basehttp 187 "GET /register/ HTTP/1.1" 200 5534
+INFO 2023-08-16 09:32:56,578 basehttp 187 "GET /image_codes/2027a4d2-ed4c-4155-a47e-4340cf54f045/ HTTP/1.1" 200 3384
+INFO 2023-08-16 09:32:58,702 basehttp 187 "GET /image_codes/048d36ea-e7c6-4f15-be26-40b501abaa76/ HTTP/1.1" 200 3216
+INFO 2023-08-16 09:32:58,916 basehttp 187 "GET /image_codes/b8e1c83c-5409-4c26-a0c9-6dd4d6d026e9/ HTTP/1.1" 200 3113
+INFO 2023-08-16 09:32:59,082 basehttp 187 "GET /image_codes/69b45b15-ea0f-49e3-a45d-9bf3f1d77f7c/ HTTP/1.1" 200 3315
